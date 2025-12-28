@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "text": "คุณเคยรอดตายมาแบบหวุดหวิดไหม? ... อุบัติเหตุที่น่าจะชนแน่ๆ หรือจังหวะที่หัวใจเกือบจะหยุดเต้น... แต่สุดท้ายคุณก็รอดมาได้แบบงงๆ",
+    "image_prompt": "First person view driving a car at night in rain, headlights illuminating a deer or truck right in front, about to crash, motion blur, dramatic lighting"
+  },
+  {
+    "id": 2,
+    "text": "จะเกิดอะไรขึ้นถ้าผมบอกว่า... ในจักรวาลอื่น 'คุณไม่ได้โชคดีแบบนั้น' ... ยินดีต้อนรับสู่ทฤษฎีที่บ้าคลั่งที่สุดในวิชาฟิสิกส์... 'Quantum Immortality'",
+    "image_prompt": "A person standing in front of a shattered mirror, each shard showing a different reflection of death and life, surreal art style, dark background"
+  },
+  {
+    "id": 3,
+    "text": "ทฤษฎีควอนตัมบอกว่า ทุกครั้งที่มีเหตุการณ์สุ่มเกิดขึ้น จักรวาลจะแตกออกเป็นทางเลือกคู่ขนาน... โลกหนึ่งคุณ 'รอด' ... อีกโลกหนึ่งคุณ 'ตาย'",
+    "image_prompt": "Visual representation of the multiverse, a glowing tree of life where branches split infinitely into different colored realities, cosmic background"
+  },
+  {
+    "id": 4,
+    "text": "แต่ประเด็นสำคัญคือ... 'ความตระหนักรู้' ของคุณ จะไหลไปสู่ไทม์ไลน์ที่ยังมีชีวิตอยู่เสมอ... เพราะคุณไม่สามารถรับรู้ความตายของตัวเองได้",
+    "image_prompt": "A silhouette of a human head dissolving into digital dust on the left, but reforming into a glowing energy body on the right, transition effect"
+  },
+  {
+    "id": 5,
+    "text": "นั่นหมายความว่า จากมุมมองของคุณ... คุณจะไม่มีวันตาย... ทุกครั้งที่คุณเจออุบัติเหตุ คุณจะแค่รู้สึกว่า 'เกือบไปแล้ว' แล้วก็ใช้ชีวิตต่อ",
+    "image_prompt": "A person walking on a tightrope over a city abyss, looking calm, while shadowy versions of themselves fall down screaming, conceptual art"
+  },
+  {
+    "id": 6,
+    "text": "แต่ความน่ากลัวคือ... คนรอบข้างจะเห็นคุณตายไปแล้ว งานศพของคุณถูกจัดขึ้นในโลกเหล่านั้น... มีแค่ 'คุณ' ในเวอร์ชันนี้เท่านั้น ที่ยังเดินหน้าต่อไปเรื่อยๆ อย่างโดดเดี่ยว",
+    "image_prompt": "A funeral scene in rain, people crying around a coffin, but a transparent ghost-like version of the deceased is standing there looking confused, watching their own funeral"
+  },
+  {
+    "id": 7,
+    "text": "ลองนึกย้อนกลับไปถึงเหตุการณ์เฉียดตายครั้งล่าสุดดูสิครับ... คุณแน่ใจได้ยังไงว่าคุณรอดมาจริงๆ? ... หรือว่าจริงๆ แล้ว... คุณได้ตายไปแล้วตั้งแต่วันนั้น?",
+    "image_prompt": "Close up of an eye looking terrified, reflection in the eye shows a gravestone with the viewer's name (blurred), cinematic horror vibe"
+  }
+]
